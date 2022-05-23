@@ -1,0 +1,7 @@
+To run program,
+
+install pygame using "pip install pygame"
+
+cd into code
+
+run "python main.py"
